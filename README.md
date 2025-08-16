@@ -1,3 +1,11 @@
+# Speedometer Project
+
+A React.js project that simulates a speedometer with accelerate and brake buttons.
+
+## 🚀 Live Demo
+ [Click here to view the project](https://bkmeter.ccbp.tech/)
+
+
 In this project, let's build a **Speedometer** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
